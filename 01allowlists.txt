@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
+
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/Amazon.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/EasyList.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/Facebook.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/Games.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/Microsoft.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/Spotify.txt
+https://github.com/tobst96/Whitelist-AdGuardHome-PiHole/blob/main/google.txt
+
+https://github.com/kdpuvvadi/pihole-list/blob/main/whitelist.txt
